@@ -1,3 +1,7 @@
+.section.newcolumns-container {
+    background-color: gray;
+}
+
 .newcolumns > div {
   display: flex;
   flex-direction: column;
